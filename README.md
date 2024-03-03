@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Haider</h1>
 <h3 align="center">Mern Stack Developer</h3>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working as a Technology Intern at Publicis Re:sources
 
 - 👨‍💻 All of my projects are available at [https://github.com/haider32?tab=repositories](https://github.com/haider32?tab=repositories)
 
